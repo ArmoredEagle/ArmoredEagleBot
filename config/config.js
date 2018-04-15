@@ -4,7 +4,7 @@ module.exports = {
     //The default prefix, this will be one by default on each new server and in dm
     prefix: "c.",
     //Your ID
-    ownerID: "335674585762758659",
+    ownerID: "OWNER_ID",
     //API key for different bot lists, in a selfhost case, leave that false
     discordBotList: false,
     discordBotFr: false,
@@ -27,7 +27,7 @@ module.exports = {
     //Whatanime.ga API key (still not implemented)
     whatAnimeKey: false,
     //Actually needed: The token of the bot, won't work without it
-    token: "NDMzMDkxMzIxMTcxOTM1MjQy.Da2zVQ.qwypDc0hJ26HnvjdAOIWnYilra8",
+    token: "TOKEN",
 	 //Some customizable options
     options: {
         //The activity countdown (time before a user may win experience with a message again, in milliseconds)
